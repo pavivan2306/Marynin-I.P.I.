@@ -3,7 +3,7 @@ There are six folders with my most recent codes on Python (projects are not olde
 All tasks were performed as a part of studies at the university.
 Folders:
   From 1st to 3rd: Symmetric Cryptography.
-  From 4th to 5th: Teoritical Numerical Algorithms in Cryptology.
+  From 4th to 5th: Teoritical Numerical Algorithms.
   6th: Data Science (introduction).
   
 Each folder contains tasks, programm code and the results of research.
