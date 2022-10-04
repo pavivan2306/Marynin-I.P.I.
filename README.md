@@ -1,5 +1,5 @@
 Hello!
-There are five folders with my most recent codes on Python (projects are not older than 1 year).  
+There are five folders with my most recent codes on Python (projects are not older than half a year).  
 All tasks were performed as a part of studies at the university.
 Folders:
   From 1st to 3rd: Symmetric Cryptography.
